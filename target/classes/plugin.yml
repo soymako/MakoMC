@@ -1,0 +1,7 @@
+name: MakoMC
+version: '1.0'
+main: me.soymako.makomc.Main
+api-version: '1.21'
+authors: [soymako]
+description: una dependencia creada para facilitar el desarrollo de plugins
+website: youtube.com/soymako
